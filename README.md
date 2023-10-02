@@ -2,7 +2,7 @@
 
 The aim is to learn Python's capabilities in breadth to explore the world and not focus on the language. Of course, it will be necessary to understand co
 
-# Progress
+## Progress
 
 - [x] 1: GETTING STARTED
 - [x] 2: INTRODUCTION TO PYTHON
