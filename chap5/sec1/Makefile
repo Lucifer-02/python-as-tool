@@ -1,2 +1,2 @@
 run:
-	python3 ex3.py
+	python3 ex4.py
