@@ -1,2 +1,2 @@
 run:
-	python3 ./sec1_ex2.py
+	python3 ./sec3_ex1.py
