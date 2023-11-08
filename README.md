@@ -1,6 +1,6 @@
 # python-as-tool
 
-The aim is to learn Python's capabilities in breadth to explore the world and not focus on the language. Of course, it will be necessary to understand co
+The aim is to learn Python's capabilities in breadth to explore the world and not focus on the language. Of course, you also need to grasp the core concepts of Python to use them effectively.
 
 ## Progress
 
